@@ -6,7 +6,8 @@ namespace ETAPA2B
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello ld!");
+            Console.WriteLine("HOLA BEBE!");
         }
     }
 }
+
