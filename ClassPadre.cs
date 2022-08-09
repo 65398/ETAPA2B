@@ -7,6 +7,7 @@ namespace ETAPA2B
     public class ClassPadre
     {
       
+        public int llamada {get;set;}
         public int ID { set; get; }
         public int Cedula {get ; set;}
         public string Nombre { get; set; }
